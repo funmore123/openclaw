@@ -29,10 +29,17 @@ Preferred setup: run the onboarding wizard (`openclaw onboard`). It walks throug
 Works with npm, pnpm, or bun.
 New install? Start here: [Getting started](https://docs.openclaw.ai/start/getting-started)
 
+<<<<<<< HEAD
+**Supported Providers:**
+- **[Anthropic](https://www.anthropic.com/)** (Claude Pro/Max) · **[OpenAI](https://openai.com/)** (ChatGPT/Codex)
+- **[ByteDance Doubao](https://www.volcengine.com/product/doubao)** · **[Google Gemini](https://ai.google.dev/)**
+- Groq · Mistral · Moonshot · DeepSeek · Qwen · [More](https://docs.clawd.bot/concepts/model-providers)
+=======
 **Subscriptions (OAuth):**
 
 - **[Anthropic](https://www.anthropic.com/)** (Claude Pro/Max)
 - **[OpenAI](https://openai.com/)** (ChatGPT/Codex)
+>>>>>>> @{-1}
 
 Model note: while any model is supported, I strongly recommend **Anthropic Pro/Max (100/200) + Opus 4.5** for long‑context strength and better prompt‑injection resistance. See [Onboarding](https://docs.openclaw.ai/start/onboarding).
 
